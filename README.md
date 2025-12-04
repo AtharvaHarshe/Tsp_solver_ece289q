@@ -89,15 +89,23 @@ Final best tour: 5981
 📝 Input File Format (both solvers follow same)
 
 N
+
 Header1 Header2 Header3   ← ignored
+
 u v weight
+
 u v weight
+
 ...
+
 Example:
 
-
 1000
+
 X Y D
+
 1 2 4.52
+
 1 3 6.71
+
 2 3 3.98
