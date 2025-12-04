@@ -95,8 +95,7 @@ u v weight
 ...
 Example:
 
-python-repl
-Copy code
+
 1000
 X Y D
 1 2 4.52
